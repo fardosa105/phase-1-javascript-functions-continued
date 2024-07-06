@@ -11,4 +11,4 @@ function wrapAdjective(wrap = "*"){
     }
 }
 const encouragingPromptFunction = wrapAdjective("%")
-console.log (encouragingPromptFunction("a dedicated programmer"))
+console.log (encouragingPromptFunction("a dedicated programmer"))// Test change
